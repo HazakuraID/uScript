@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Disable AMP
 // @namespace    adguard
-// @version      1.0.45
+// @version      1.0.46
 // @description Ini adalah skrip pengguna yang sangat sederhana menonaktifkan AMP di laman hasil penelusuran Google.
 // @homepageURL  https://adguard.com/
 // @author       AdGuard
@@ -9,6 +9,8 @@
 // @include      https://yandex.*/*
 // @include      https://*.turbopages.org/*
 // @include      https://*/amp/*
+// @include      https://*/amp/s*/*
+// @include      https://*/amp/s*
 // @include      https://*/*/amp/*
 // @include      https://amp.*
 // @include      https://*/amp-*/*
